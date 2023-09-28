@@ -11,11 +11,12 @@ body {
 }
 
 .header {
-    font-family: 'Samatha', sans-serif;
-    font-size: 30px;
-    -webkit-text-fill-color: #DEB3E4;
-    text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  -webkit-text-fill-color: #DEB3E4;
+  text-align: center;
 }
+
 
 .imgp1 {
     width: 879px;
@@ -69,7 +70,7 @@ body {
 }
 
 .touan{
-    font-family: 'Winter Sunday', sans-serif;
+    font-family: 'Satisfy', sans-serif;
     font-size: 50px;
     position: fixed; 
     right: 170px; 
